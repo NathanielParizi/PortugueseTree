@@ -20,7 +20,7 @@ public class Portuguese_Vocabulary {
 		}
 		
 		
-		System.out.println(lines[4999]);
+		System.out.println(lines[1670]);
 
 	}
 
