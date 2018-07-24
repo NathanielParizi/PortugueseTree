@@ -14,4 +14,9 @@ public class Chinese_to_Portuguese {
 
 	}
 
+	private static String chinese() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
 }
